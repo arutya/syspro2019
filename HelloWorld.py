@@ -1,2 +1,2 @@
-print("HelloWorld s16015")
+print("HelloWorld")
 
